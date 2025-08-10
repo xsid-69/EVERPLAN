@@ -1,0 +1,25 @@
+Windows Registry Editor Version 5.00
+
+; Open files with VS Code
+[HKEY_CLASSES_ROOT\*\shell\VSCode]
+@="Open with Code"
+"Icon"="D:\\Microsoft VS Code\\Code.exe,0"
+
+[HKEY_CLASSES_ROOT\*\shell\VSCode\command]
+@="\"D:\\Microsoft VS Code\\Code.exe\" \"%1\""
+
+; Open folders with VS Code
+[HKEY_CLASSES_ROOT\Directory\shell\VSCode]
+@="Open with Code"
+"Icon"="D:\\Microsoft VS Code\\Code.exe,0"
+
+[HKEY_CLASSES_ROOT\Directory\shell\VSCode\command]
+@="\"D:\\Microsoft VS Code\\Code.exe\" \"%V\""
+
+; Open folder backgrounds with VS Code
+[HKEY_CLASSES_ROOT\Directory\Background\shell\VSCode]
+@="Open with Code"
+"Icon"="D:\\Microsoft VS Code\\Code.exe,0"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\VSCode\command]
+@="\"D:\\Microsoft VS Code\\Code.exe\" \"%V\""
