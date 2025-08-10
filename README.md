@@ -34,7 +34,7 @@
 
 ## 🚀 Live Demo
 
-👉 **GitHub Pages**: [Everplan Live](https://your-username.github.io/everplan/)  
+👉 **GitHub Pages**: [Everplan Live](https://xsid-69.github.io/EVERPLAN/index.html)  
 
 👉 **Netlify**: [Everplan Live](https://everplann.netlify.app/)  
 
