@@ -180,7 +180,7 @@ FULLSCREENPOMO();
 const backgroundVideos = [
     "https://res.cloudinary.com/dhox2ocnr/video/upload/v1754764521/bgwall0_vunz7f.mp4",
     // "https://res.cloudinary.com/dhox2ocnr/video/upload/v1754764503/bgwall1_ay5ahz.mp4",
-    "https://res.cloudinary.com/dhox2ocnr/video/upload/v1754805866/dark-galaxy.3840x2160_bkyami.mp4",
+    "https://res.cloudinary.com/dhox2ocnr/video/upload/v1754824201/dark-galaxy.1920x1080_svmcxl.mp4",
     "https://res.cloudinary.com/dhox2ocnr/video/upload/v1754809282/hydrangeas-rain.3840x2160_utj2on.mp4"
 ];
 
